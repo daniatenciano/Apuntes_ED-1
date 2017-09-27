@@ -5,7 +5,7 @@ Apuntes del curso Entorno de Desarrollo
 Curso 2017-18  
 Écija (Sevilla)  
 ***
-![Entorno de desarrollo](http://3.bp.blogspot.com/-Y-w9ZUjuCoo/U6w0Nvv6vSI/AAAAAAAACbQ/RpJy1pCJR-w/s1600/ide-entorno_de_desarrollo_integrado-web_developer.png)
+![Entorno de desarrollo](img/logoED.png)
 ## Contenidos del módulo
 
 [Unidad 1: Elementos de desarrollo del software](1.ELEMENTOS.md)   
